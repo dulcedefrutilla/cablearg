@@ -159,8 +159,8 @@ http://186.167.80.82:8126/play/a0f1/index.m3u8
 #EXTINF:-1 tvg-id="NickJrSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-NickJr.png" audio-track="spa" group-title="Infantiles", Nick Jr
 http://181.13.173.86:8000/play/a06u/index.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDuoSxWJVs5GQ4lmyXdk5wnizqVZ1jFS7svg&s" group-title="Infantiles", Plim Plim
+http://45.230.199.108:8000/play/a00g/index.m3u8
 
 
 
@@ -485,8 +485,7 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="Internacionales", France 24 ESPAÑOL
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0075
-
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/france24.playlist.m3u8
 
 
 
