@@ -145,6 +145,9 @@ http://181.13.173.86:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/37uTr8IZwl0UWGylvFA5dA/72ec78ca5103de251fd0b241d3b9eca4/cartoonito.png?fm=webp&q=80" group-title="Infantiles" , Cartoonito
 http://186.167.80.82:8126/play/a0eb/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDuoSxWJVs5GQ4lmyXdk5wnizqVZ1jFS7svg&s" group-title="Infantiles", Plim Plim
+http://45.230.199.108:8000/play/a00g/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7IRItnDZbY1YV1Zf8NA0eu/24b16ed7317309e358903eaaea4f7e57/39_Tooncast.png?fm=webp&q=80" group-title="Infantiles" , Tooncast
 http://186.167.80.82:8126/play/a0f1/index.m3u8
 
@@ -412,7 +415,6 @@ http://186.148.195.206:8000/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/QYsFZTANMLqngS1NuqlDV/2d74d66512950c64c662bdf3be99ee7f/121_HTV.png?fm=webp&q=80" group-title="Musica" , HTV
 http://186.189.222.205:1993/play/023/index.m3u8
-
 
 
 
