@@ -33,7 +33,7 @@ https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2019/07/logo_7_1.png" group-title="Locales", El Siete Mendoza
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0274
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/canal7mza.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="Locales", Canal 9 Mendoza
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
@@ -48,16 +48,16 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 https://ythls.armelin.one/channel/UCW1sJwBOGgPhSPXJ-6pjF6w.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="Locales" , El Doce Cordoba
-https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8 
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/eldoce.playlist.m3u8
 
 #EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="Locales", Telefe Cordoba
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0214
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/cordobatelefe.playlist.m3u8
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="Locales", Telefe Rosario
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0370
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/canal5.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" group-title="Locales", Canal 8 San Juan
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0336
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/canal8sanjuan.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpp.lapampa.gob.ar/images/LOGOS_SITIO_CANAL.png" group-title="Locales", TV Publica Pampeana
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
@@ -512,4 +512,3 @@ http://200.60.124.19:29000/play/a0b9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="Radio", Latina Radio FM 101.1
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
-
