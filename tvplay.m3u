@@ -18,6 +18,18 @@ http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/americatv.play
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/tn_285.png" group-title="TV PLAY", TN
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/tn.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/LN_285.png" group-title="TV PLAY", LN+
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/lntv.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/AdultSwim_285.png" group-title="TV PLAY", ADULT SWING
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local423.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/CartoonNetwork_285.png" group-title="TV PLAY", CARTOON NETWORK
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local499.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Disney.png" group-title="TV PLAY", DISNEY CHANNEL
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local28.playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/rural_285.png" group-title="TV PLAY", CANAL RURAL
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/rural.playlist.m3u8
 
@@ -36,8 +48,7 @@ http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/a24.playlist.m
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/Canal7Mza_285.png" group-title="TV PLAY", SIETE MENDOZA
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/canal7mza.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/LN_285.png" group-title="TV PLAY", LN+
-http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/lntv.playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/canal26_285.png" group-title="TV PLAY", CANAL 26
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/c26.playlist.m3u8
