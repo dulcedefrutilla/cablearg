@@ -70,6 +70,57 @@ http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local516.playl
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/hbo_285.png" group-title="TV PLAY", HBO
 http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local48.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/hbo2_285.png" group-title="TV PLAY", HBO 2
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local49.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/HBOFamily_285.png" group-title="TV PLAY", HBO FAMILY
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local50.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/HBOXtreme_285.png" group-title="TV PLAY", HBO XTREME
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local55.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/HBOSignature_285.png" group-title="TV PLAY", HBO SIGNATURE
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local54.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/HBOPop_285.png" group-title="TV PLAY", HBO POP
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local53.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/HBOPlus_285.png" group-title="TV PLAY", HBO PLUS
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local52.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/HBOMundi_285.png" group-title="TV PLAY", HBO MUNDI
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local51.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/sony_285.png" group-title="TV PLAY", SONY
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local75.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/tntseries_285.png" group-title="TV PLAY", TNT SERIES
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local534.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/UniversalChannel_285.png" group-title="TV PLAY", UNIVERSAL
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local539.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/warner_285.png" group-title="TV PLAY", WARNER
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local540.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/animalplanet_285.png" group-title="TV PLAY", ANIMAL PLANET
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local376.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/HistoryChannel_285.png" group-title="TV PLAY", HISTORY
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local519.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/history2_285.png" group-title="TV PLAY", H2
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local518.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/SunChannel_285.png" group-title="TV PLAY", SUN CHANNEL
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local533.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/mtvhd_285.png" group-title="TV PLAY", MTV
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local525.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/StingrayConcerts_285.png" group-title="TV PLAY", STINGRAY CONCERT
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local532.playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/los-simpson-24hs_285.png" group-title="TV PLAY", LOS SIMPSONS
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/online-24-7.playlist.m3u8
 
