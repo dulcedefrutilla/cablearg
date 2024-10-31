@@ -130,17 +130,11 @@ http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/rural.playlist
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/CanaldelaCiudad_285.png" group-title="TV PLAY", CANAL DE LA CIUDAD
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/canalciud.playlist.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/A24_285.png" group-title="TV PLAY", A24
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/a24.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/Canal7Mza_285.png" group-title="TV PLAY", SIETE MENDOZA
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/canal7mza.playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/canal26_285.png" group-title="TV PLAY", CANAL 26
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/c26.playlist.m3u8
@@ -148,11 +142,11 @@ http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/c26.playlist.m
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/luzutv_285.png" group-title="TV PLAY", LUZU
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/Luzu.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/olgatv_285.png" group-title="TV PLAY", OLGA
-http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/Olga.playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/NeuraMedia_285.png" group-title="TV PLAY", NEURA
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/NeuraM.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/olgatv_285.png" group-title="TV PLAY", OLGA
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/Olga.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/Multivision_285.png" group-title="TV PLAY", MULTIVISION
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/Multivision.playlist.m3u8
