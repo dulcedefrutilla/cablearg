@@ -1,7 +1,10 @@
 #EXTM3U x-tvg-guide="https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml" tv-test="arg.m3u"
 
-#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/los-simpson-24hs_285.png" group-title="TV PLAY", LOS SIMPSONS
-http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/online-24-7.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/america_285.png" group-title="TV PLAY", AMERICA
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/americatv.playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/telefe_285.png" group-title="TV PLAY", TELEFE
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/telefe.playlist.m3u8
@@ -12,8 +15,7 @@ http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/eltrece.playli
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/tvpublica_285.png" group-title="TV PLAY", TV PUBLICA
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/tvpublica.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/america_285.png" group-title="TV PLAY", AMERICA
-http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/americatv.playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/tn_285.png" group-title="TV PLAY", TN
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/tn.playlist.m3u8
@@ -29,6 +31,9 @@ http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local499.playl
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Disney.png" group-title="TV PLAY", DISNEY CHANNEL
 http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local28.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/los-simpson-24hs_285.png" group-title="TV PLAY", LOS SIMPSONS
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/online-24-7.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/rural_285.png" group-title="TV PLAY", CANAL RURAL
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/rural.playlist.m3u8
