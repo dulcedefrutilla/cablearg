@@ -145,7 +145,7 @@ http://200.115.120.1:8000/play/ca005/index.m3u8
 http://181.13.173.86:8000/play/a06t/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#boomerang-cartoon" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Cartoonito.png" audio-track="spa" group-title="Infantiles", Cartoonito
-http://186.167.80.82:8126/play/a0eb/index.m3u8
+http://200.52.148.194:8000/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#disney-jr" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DisneyJr.png" audio-track="spa"group-title="Infantiles", Disney Jr
 http://181.13.173.86:8000/play/a0ac/index.m3u8
@@ -154,7 +154,7 @@ http://181.13.173.86:8000/play/a0ac/index.m3u8
 http://181.13.173.86:8000/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/200px-Tooncast_logo.svg.png" group-title="Infantiles", Tooncast 
-http://186.167.80.82:8126/play/a0f1/index.m3u8
+http://200.52.148.194:8000/play/a04s/index.m3u8
 
 #EXTINF:-1 tvg-id="NickJrSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-NickJr.png" audio-track="spa" group-title="Infantiles", Nick Jr
 http://181.13.173.86:8000/play/a06u/index.m3u8
@@ -177,7 +177,7 @@ http://181.78.27.128:8000/play/a027/index.m3u8
 http://181.209.114.13:8000/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="HBO", HBO Pop
-http://186.148.195.206:8000/play/a00a/index.m3u8
+http://186.167.80.82:8126/play/a0h1/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" audio-track="spa" group-title="HBO", HBO Xtreme
 http://181.209.114.13:8000/play/a02b/index.m3u8
@@ -320,7 +320,7 @@ http://191.52.214.5:8000/play/a03f/index.m3u8
 http://181.13.173.86:8000/play/a07h/index.m3u8
 
 #EXTINF:-1 tvg-id="MasChicLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/101-MasChic.png" audio-track="spa" group-title="Varios", Mas Chic
-http://45.166.93.74:8000/play/a0gj/index.m3u8
+http://200.52.148.194:8000/play/a069/index.m3u8
 
 #EXTINF:-1 tvg-id="TLC.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTLC.png" tvg-description="Cultural" audio-track="spa" group-title="Varios", Discovery TLC
 http://181.78.27.128:8000/play/a03u/index.m3u8
@@ -417,7 +417,7 @@ https://g5.proy-hor.transport.edge-access.net/b04/ngrp:vorterix_video1-20057_all
 http://190.211.102.42:4000/play/a04g/index.m3u8
 
 #EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-HTV.png" audio-track="spa" group-title="Musica", HTV
-http://186.189.222.205:1993/play/023/index.m3u8
+http://200.52.148.194:8000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Musica", CM
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
