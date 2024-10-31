@@ -415,14 +415,38 @@ http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local484.playl
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/EspnExtra_285.png" group-title="TV PLAY", ESPN EXTRA
 http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local39.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/EspnExtra_285.png" group-title="TV PLAY", ESPN PREMIUM
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/espnprem_285.png" group-title="TV PLAY", ESPN PREMIUM
 http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local40.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/foxsports_285.png" group-title="TV PLAY", FOX SPORTS
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local43.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/foxsports2_285.png" group-title="TV PLAY", FOX SPORTS 2
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local102.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/FoxSports3_285.png" group-title="TV PLAY", FOX SPORTS 3
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local44.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/TycSports_285.png" group-title="TV PLAY", TYC SPORTS
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local91.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/tntsports_285.png" group-title="TV PLAY", TNT SPORTS
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local87.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/WINSPORTS_285.png" group-title="TV PLAY", WIN SPORTS
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local542.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/WinSportsplus_285.png" group-title="TV PLAY", WIN SPORTS +
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local379.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/WinSportsplus_285.png" group-title="TV PLAY", WIN SPORTS +
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local379.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/GOLPeru_285.png" group-title="TV PLAY", GOL PERU
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local514.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/goltv_285.png" group-title="TV PLAY", GOL TV
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local515.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/MovistarDeportes_285.png" group-title="TV PLAY", MOVISTAR DEPORTES
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local526.playlist.m3u8
