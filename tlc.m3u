@@ -145,7 +145,7 @@ http://181.13.173.86:8000/play/a02r/index.m3u8
 http://181.13.173.86:8000/play/a0am/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#boomerang-cartoon" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Cartoonito.png" audio-track="spa" group-title="Infantiles", Cartoonito
-http://186.167.80.82:8126/play/a0eb/index.m3u8
+http://200.52.148.194:8000/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.reportv.com.ar/buscador/img/Logos/20068539.jpg" group-title="Infantiles", Dreamworks
 http://200.115.120.1:8000/play/ca005/index.m3u8
@@ -163,8 +163,7 @@ http://181.13.173.86:8000/play/a06u/index.m3u8
 http://181.13.173.86:8000/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/200px-Tooncast_logo.svg.png" group-title="Infantiles", Tooncast 
-http://186.167.80.82:8126/play/a0f1/index.m3u8
-
+http://200.52.148.194:8000/play/a04s/index.m3u8
 
 
 
@@ -305,7 +304,7 @@ http://181.78.27.128:8000/play/a027/index.m3u8
 http://181.209.114.13:8000/play/a06r/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="Entretenimiento", HBO Pop
-http://186.148.195.206:8000/play/a00a/index.m3u8
+http://186.167.80.82:8126/play/a0h1/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" audio-track="spa" group-title="Entretenimiento", HBO Xtreme
 http://181.209.114.13:8000/play/a02b/index.m3u8
@@ -348,7 +347,7 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 http://181.13.173.86:8000/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-id="MasChicLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/101-MasChic.png" audio-track="spa" group-title="Culturales", Mas Chic
-http://45.166.93.74:8000/play/a0gj/index.m3u8
+http://200.52.148.194:8000/play/a069/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3McziTZ5M5VJkRn4IBIPAh/53add865f835209e59decf37bacb705e/Metro.png?fm=webp&q=80" group-title="Culturales", Metro
 http://181.13.173.86:8000/play/a02g/index.m3u8
@@ -397,7 +396,7 @@ https://g5.proy-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044
 http://190.211.102.42:4000/play/a04g/index.m3u8
 
 #EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-HTV.png" audio-track="spa" group-title="Musica", HTV
-http://186.189.222.205:1993/play/023/index.m3u8
+http://200.52.148.194:8000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/33QT9mcUIUX6ezV5xXA61r/6da57dc09d602d6ba128357517588d3c/115_MTVHits.png?fm=webp&q=80" group-title="Musica" , MTV Hits
 http://45.5.117.182:8000/play/a0f1/index.m3u8
