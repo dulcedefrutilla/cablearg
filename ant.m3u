@@ -114,7 +114,7 @@ http://181.13.173.86:8000/play/a02r/index.m3u8
 http://181.13.173.86:8000/play/a06t/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#boomerang-cartoon" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Cartoonito.png" audio-track="spa" group-title="Infantiles", Cartoonito
-http://186.167.80.82:8126/play/a0eb/index.m3u8
+http://200.52.148.194:8000/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#disney-jr" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DisneyJr.png" audio-track="spa"group-title="Infantiles", Disney Jr
 http://181.13.173.86:8000/play/a0ac/index.m3u8
@@ -355,7 +355,7 @@ http://181.209.114.13:8000/play/a02a/index.m3u8
 http://181.209.114.13:8000/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="Premium", HBO Pop
-http://186.148.195.206:8000/play/a00a/index.m3u8
+http://186.167.80.82:8126/play/a0h1/index.m3u8
 
 
 
