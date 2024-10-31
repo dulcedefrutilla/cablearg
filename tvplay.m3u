@@ -2,26 +2,31 @@
 
 
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/america_285.png" group-title="TV PLAY", AMERICA
-http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/americatv.playlist.m3u8
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local6.playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/america_285.png" group-title="TV PLAY", EL NUEVE
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local33.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/telefe_285.png" group-title="TV PLAY", TELEFE
-http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/telefe.playlist.m3u8
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local83.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/el13_285.png" group-title="TV PLAY", EL TRECE
-http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/eltrece.playlist.m3u8
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local34.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/tvpublica_285.png" group-title="TV PLAY", TV PUBLICA
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/tvpublica.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/c5n_285.png" group-title="TV PLAY", C5N
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local9.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/CronicaTv_285.png" group-title="TV PLAY", CRONICA
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/CronicaTv.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/tn_285.png" group-title="TV PLAY", TN
-http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/tn.playlist.m3u8
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local84.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/LN_285.png" group-title="TV PLAY", LN+
-http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/lntv.playlist.m3u8
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local62.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/AdultSwim_285.png" group-title="TV PLAY", ADULT SWING
 http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local423.playlist.m3u8
@@ -32,6 +37,39 @@ http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local499.playl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Disney.png" group-title="TV PLAY", DISNEY CHANNEL
 http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local28.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/DisneyJunior_285.png" group-title="TV PLAY", DISNEY JUNIOR
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local29.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/LollyKids_285.png" group-title="TV PLAY", LOLLY KIDS
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local522.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/Tooncast_285.png" group-title="TV PLAY", TOONCAST
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local538.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/AyE_285.png" group-title="TV PLAY", A&E
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local491.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/axn_285.png" group-title="TV PLAY", AXN
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local493.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/cinemax_285.png" group-title="TV PLAY", CINEMAX
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local501.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/cinecanal_285.png" group-title="TV PLAY", CINECANAL
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local500.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/CloverChannel_285.png" group-title="TV PLAY", CLOVER
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local503.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/FX_285.png" group-title="TV PLAY", FX
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local512.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/GoldenPlus_285.png" group-title="TV PLAY", GOLDEN +
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local516.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/hbo_285.png" group-title="TV PLAY", HBO
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local48.playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/los-simpson-24hs_285.png" group-title="TV PLAY", LOS SIMPSONS
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/online-24-7.playlist.m3u8
 
@@ -41,11 +79,9 @@ http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/rural.playlist
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/CanaldelaCiudad_285.png" group-title="TV PLAY", CANAL DE LA CIUDAD
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/canalciud.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/CronicaTv_285.png" group-title="TV PLAY", CRONICA
-http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/CronicaTv.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/c5n_285.png" group-title="TV PLAY", C5N
-http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/c5n.playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/A24_285.png" group-title="TV PLAY", A24
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/a24.playlist.m3u8
