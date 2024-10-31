@@ -143,7 +143,7 @@ http://181.13.173.86:8000/play/a075/index.m3u8
 http://181.13.173.86:8000/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/37uTr8IZwl0UWGylvFA5dA/72ec78ca5103de251fd0b241d3b9eca4/cartoonito.png?fm=webp&q=80" group-title="Infantiles" , Cartoonito
-http://186.167.80.82:8126/play/a0eb/index.m3u8
+http://200.52.148.194:8000/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDuoSxWJVs5GQ4lmyXdk5wnizqVZ1jFS7svg&s" group-title="Infantiles", Plim Plim
 http://45.230.199.108:8000/play/a00g/index.m3u8
@@ -266,7 +266,7 @@ http://181.209.114.13:8000/play/a02b/index.m3u8
 http://181.209.114.13:8000/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3OamYggD5kfGpnHPj6LcN6/c06f94dbe8efe062bd7d85825acb283e/Premium_10_HBOPOP.png?fm=webp&q=80" group-title="Premium" , HBO POP
-http://186.148.195.206:8000/play/a00a/index.m3u8
+http://186.167.80.82:8126/play/a0h1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/77tiTKhe5p80XL5mgv2GX4/17c2b387b7a33cb13dbd5abbec8fe5ba/Premium_07_HBOSignature.png?fm=webp&q=80" group-title="Premium" , HBO Signature HD
 http://181.209.114.13:8000/play/a02c/index.m3u8
@@ -309,7 +309,7 @@ https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/
 http://181.13.173.86:8000/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3vkHgQ8kJJA1LRCK8LzZzZ/f25831b884baae7d80d8fab795a9be81/80_MasChic.png?fm=webp&q=80" group-title="Varios" , MAS CHIC
-http://45.166.93.74:8000/play/a0gj/index.m3u8
+http://200.52.148.194:8000/play/a069/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3sswkG0BLaUI5CuxxdNiQg/0c362f7462bf1fa5c58ea8b9763cc7e3/85_FoodNetwork.png?fm=webp&q=80" group-title="Varios" , Food Network 
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
@@ -414,7 +414,7 @@ http://45.5.117.182:8000/play/a0f2/index.m3u8
 http://186.148.195.206:8000/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/QYsFZTANMLqngS1NuqlDV/2d74d66512950c64c662bdf3be99ee7f/121_HTV.png?fm=webp&q=80" group-title="Musica" , HTV
-http://186.189.222.205:1993/play/023/index.m3u8
+http://200.52.148.194:8000/play/a04j/index.m3u8
 
 
 
