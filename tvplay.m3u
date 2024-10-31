@@ -169,14 +169,14 @@ http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/canal9televida
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/euronews_285.png" group-title="TV PLAY", EURONEWS
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/euronews.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/TalkingGinger_285.png" group-title="TV PLAY", TALKING GINGER
-http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/TalkingGinger.playlist.m3u8
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/BoobaTV_285.png" group-title="TV PLAY", BOOBA TV
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/BoobaTV.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/pepapig_285.png" group-title="TV PLAY", PEPPA PIG
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/pepapig.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/BoobaTV_285.png" group-title="TV PLAY", BOOBA TV
-http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/BoobaTV.playlist.m3u8
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/TalkingGinger_285.png" group-title="TV PLAY", TALKING GINGER
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/TalkingGinger.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/ipanda_285.png" group-title="TV PLAY", IPANDA
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/ipanda.playlist.m3u8
@@ -388,3 +388,41 @@ http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/musictop.playl
 
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/RetroTV_285.png" group-title="TV PLAY", RETRO TV
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/retro.playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/espn_285.png" group-title="TV PLAY", ESPN LAT
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local36.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/espn_285.png" group-title="TV PLAY", ESPN ARG
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local485.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/espn2_285.png" group-title="TV PLAY", ESPN 2
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local37.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/espn3_285.png" group-title="TV PLAY", ESPN 3
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local38.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/espn4_285.png" group-title="TV PLAY", ESPN 4
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local377.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/espn5_285.png" group-title="TV PLAY", ESPN 5
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local426.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/espn7_285.png" group-title="TV PLAY", ESPN 7
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local484.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/EspnExtra_285.png" group-title="TV PLAY", ESPN EXTRA
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local39.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/EspnExtra_285.png" group-title="TV PLAY", ESPN PREMIUM
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local40.playlist.m3u8
+
+
+
+
+
+
+
+
+
