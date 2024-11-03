@@ -87,7 +87,7 @@ http://181.13.173.86:8000/play/a01z/index.m3u8
 http://181.13.173.86:8000/play/a07e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/34c67hv0nOq5BrBaEcSqDx/710f3144ad00783b2499a54737334199/64_Atreseries.png?fm=webp&q=80" group-title="Entretenimiento" , ATRESERIES
-http://45.71.252.16:8000/play/a0hq/index.m3u8
+http://38.188.100.27:8000/play/a07n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F6SR26t/cocen.png" group-title="Entretenimiento", Comedy Central
 http://181.13.173.86:8000/play/a02x/index.m3u8
@@ -187,7 +187,7 @@ http://181.13.173.86:8000/play/a0ac/index.m3u8
 http://181.13.173.86:8000/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/100px-ZooMoo_logo.svg.pngg" audio-track="spa" group-title="Infantiles", Zoomoo
-http://181.78.4.186:8000/play/a0gh/index.m3u8
+http://200.52.148.194:8000/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryKidsPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DiscoveryKids.png" audio-track="spa" group-title="Infantiles", Discovery Kids
 http://181.13.173.86:8000/play/a06t/index.m3u8
@@ -231,7 +231,7 @@ http://181.13.173.86:8000/play/a07d/index.m3u8
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/1624
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/598px-Sony_Movies_Logo.svg.png" group-title="Cine", Sony Movies
-http://192.141.95.253:8000/play/a01e/index.m3u8
+http://190.211.102.42:4000/play/a06x/index.m3u8
 
 #EXTINF:-1 tvg-id="CinecanalEast.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" audio-track="spa" group-title="Cine", Cinecanal
 http://181.13.173.86:8000/play/a07b/index.m3u8
@@ -249,7 +249,7 @@ http://181.13.173.86:8000/play/a02y/index.m3u8
 http://181.13.173.86:8000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReSzO0UauKeVnjiVx9Dccj-mmMa70EoZzXJQ&s" group-title="Cine", DHE
-http://38.43.151.206:8000/play/a05h/index.m3u8
+http://190.60.32.178:8178/play/a08n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoAZOsu7ffvwjCFbNx5Kw5G1beLgqUBNqq2A&s" group-title="Cine", Cine Latino
 http://45.5.116.178:8000/play/a059/index.m3u8
@@ -388,7 +388,7 @@ http://181.13.173.86:8000/play/a06h/index.m3u8
 http://181.13.173.86:8000/play/a0ab/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/cnn@2x.png" group-title="Noticias", CNN
-https://rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8
+http://45.5.116.178:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="Noticias", CNN Chile
 http://200.60.124.19:29000/play/a09z/index.m3u8
