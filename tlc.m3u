@@ -186,13 +186,13 @@ https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/li
 http://181.78.27.128:8000/play/a03z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1328910145783414785/MKeuNn8V_400x400.jpg" group-title="Internacionales", CGTN ESPAÑOL
-https://livees.cgtn.com/500e/prog_index.m3u8
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/rai@2x.png" group-title="Internacionales", RAI
 http://181.209.114.13:8000/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/cnn@2x.png" group-title="Internacionales", CNN
-https://rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8
+https://live-media-fly.warnermediacdn.com/cmaf/live/2028716/cnnfast-international/master_de.m3u8?playername=top-2.16.1
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/BBC%20News%20128.png" group-title="Internacionales", BBC News
 http://45.5.116.178:8000/play/a025/index.m3u8
