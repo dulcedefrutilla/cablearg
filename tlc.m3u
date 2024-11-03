@@ -192,7 +192,7 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 http://181.209.114.13:8000/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/cnn@2x.png" group-title="Internacionales", CNN
-https://live-media-fly.warnermediacdn.com/cmaf/live/2028716/cnnfast-international/master_de.m3u8?playername=top-2.16.1
+http://45.5.116.178:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/BBC%20News%20128.png" group-title="Internacionales", BBC News
 http://45.5.116.178:8000/play/a025/index.m3u8
