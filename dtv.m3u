@@ -344,13 +344,13 @@ http://181.78.27.128:8000/play/a006/index.m3u8
 http://181.78.27.128:8000/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS 
-http://disfruta.net/richardactiva247/gwqUJUjvgE/1382
+http://38.188.100.27:8000/play/a05m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/07/file-1-1.png" group-title="Tango Sports", DSPORTS 2 
-http://disfruta.net/richardactiva247/gwqUJUjvgE/1205
+http://38.188.100.27:8000/play/a065/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/07/cro1a9IIVYYF0rH8hOn08-transformed.png" group-title="Tango Sports", DSPORTS PLUS HD
-http://disfruta.net/richardactiva247/gwqUJUjvgE/1059
+http://38.188.100.27:8000/play/a066/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN
 http://181.13.173.86:8000/play/a0af/index.m3u8
