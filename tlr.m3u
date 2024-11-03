@@ -59,6 +59,9 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="locales", Construir TV
 http://190.11.130.46/mnp/construiriptv/output.mpd
 
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5yCPV36WLATWGEgkWv6h3D/5cc84285f9792100a4444091ddd3999b/07_BRAVO-TV-entretenimiento.png?fm=webp&q=80" group-title="locales" , BRAVO TV
+http://23.95.73.56:1234/stream/latino/bravotv/master.m3u8
+
 
 
 
