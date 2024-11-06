@@ -332,7 +332,7 @@ http://181.209.95.29:8000/play/a02j/index.m3u8
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="Varios", Rural TV
-https://ythls.armelin.one/channel/UCPumJ2ayrr-JDsA9JDCUDDQ.m3u8 
+https://ythls-v3.onrender.com/channel/UCPumJ2ayrr-JDsA9JDCUDDQ.m3u8 
 
 
 
@@ -429,7 +429,7 @@ http://45.5.117.182:8000/play/a0f1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="AMBA", Canal de la Ciudad  
-https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+https://ythls-v3.onrender.com/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2023/03/Marca-UNLP-TV-sin-fondo.png" group-title="AMBA", TVU LA PLATA
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8 
