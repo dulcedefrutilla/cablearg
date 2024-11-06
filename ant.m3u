@@ -283,7 +283,7 @@ https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/c
 http://181.78.27.128:8000/play/a03z/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="Varios", Rural TV
-https://ythls.armelin.one/channel/UCPumJ2ayrr-JDsA9JDCUDDQ.m3u8 
+https://ythls-v3.onrender.com/channel/UCPumJ2ayrr-JDsA9JDCUDDQ.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F6SR26t/cocen.png" group-title="Varios", Comedy Central
 http://181.13.173.86:8000/play/a02x/index.m3u8
