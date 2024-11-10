@@ -400,7 +400,7 @@ http://186.148.195.206:8000/play/a06u/index.m3u8
 http://181.13.173.86:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="Noticias", TN
-http://190.123.90.146:8000/play/a032/index.m3u8
+http://181.209.114.13:8000/play/a058/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="Noticias", C5N
 http://181.209.114.13:8000/play/a01p/index.m3u8
