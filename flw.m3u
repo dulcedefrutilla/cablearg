@@ -299,7 +299,7 @@ http://181.78.27.128:8000/play/a03z/index.m3u8
 http://181.78.27.128:8000/play/a044/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png" group-title="Entretenimiento", Telenovelas
-http://181.176.153.106:8090/play/a0ox/index.m3u8
+http://8.242.176.45:1013/play/a0ez/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/adults.png"group-title="Entretenimiento", Adult Swin
 http://45.228.234.210:8000/play/a058/index.m3u8
