@@ -226,7 +226,7 @@ http://181.13.173.86:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1sB4rWsE3tpUxTIH7Bykf8/40497fcccd89b75d19f8a44cac4314eb/66_EuropaEuropa.png?fm=webp&q=80" group-title="Entretenimiento" , EUROPA EUROPA
 http://181.13.173.86:8000/play/a06v/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1sB4rWsE3tpUxTIH7Bykf8/40497fcccd89b75d19f8a44cac4314eb/66_EuropaEuropa.png?fm=webp&q=80" group-title="Entretenimiento" , Film & Arts
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5PRN7IHqqJ59ipIqgvIkjQ/88e18c56e8c2fff01de217ed916abb47/67_Film_Arts.png?fm=webp&q=80" group-title="Entretenimiento" , Film & Arts
 http://181.13.173.86:8000/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/76LedPqmnaFTMC5WzIuHaj/985f557cf7d4b35aeb5340a5978d2e98/70_ParamountChannel.png?fm=webp&q=80" group-title="Entretenimiento" , Paramount Channel
