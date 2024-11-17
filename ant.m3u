@@ -64,13 +64,13 @@ http://181.209.114.13:8000/play/a02u/index.m3u8
 http://181.78.27.128:8000/play/a063/index.m3u8 
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png" group-title="Deportes", FOX Sports
-http://181.78.27.128:8000/play/a062/index.m3u8
+http://181.13.173.86:8000/play/a07j/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports2.png" group-title="Deportes", FOX Sports 2
-http://181.78.27.128:8000/play/a006/index.m3u8
+http://181.13.173.86:8000/play/a0ai/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png" group-title="Deportes", FOX Sports 3
-http://181.78.27.128:8000/play/a03y/index.m3u8
+http://181.13.173.86:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN
 http://181.13.173.86:8000/play/a0af/index.m3u8
