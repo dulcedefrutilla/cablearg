@@ -65,7 +65,7 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 https://panel.host-live.com/825000/825000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1AKtxHNiKPtMkjPNvAr8wx/fa26bd4d06d66de61b7a12e78296de7e/45_t5-satelital.png?fm=webp&q=80" group-title="locales" , T5 Satelital
-https://tv.t5satelital.com/hls/t5satelital.m3u8
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/t5satelital.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2vo7XIfCasCBkyOXDppqgH/0d1c4e3fece963dd9a2c3ed2d253cc3c/49_CANAL_Telediario-noticias.png?fm=webp&q=80" group-title="locales" , Telediario TV
 http://181.13.23.198:8000/play/a0f7/index.m3u8
