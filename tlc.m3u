@@ -304,7 +304,7 @@ http://181.78.27.128:8000/play/a027/index.m3u8
 http://181.209.114.13:8000/play/a06r/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="Entretenimiento", HBO Pop
-http://186.167.80.82:8126/play/a0h1/index.m3u8
+http://181.176.153.106:8090/play/a0qc/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" audio-track="spa" group-title="Entretenimiento", HBO Xtreme
 http://181.209.114.13:8000/play/a02b/index.m3u8
@@ -362,7 +362,7 @@ http://181.78.27.128:8000/play/a03u/index.m3u8
 http://190.11.130.46/mnp/construiriptv/output.mpd
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="Culturales", Rural TV
-https://ythls-v3.onrender.com/channel/UCPumJ2ayrr-JDsA9JDCUDDQ.m3u8 
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/rural.playlist.m3u8 
 
 #EXTINF:-1 tvg-id="FoodNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-FoodNetwork.png" audio-track="spa" group-title="Culturales", Food Network
 https://dplus.gammacdn.workers.dev/videos/112.m3u8 
