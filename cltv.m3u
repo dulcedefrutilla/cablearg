@@ -92,13 +92,13 @@ http://181.13.173.86:8000/play/a0ah/index.m3u8
 http://181.13.173.86:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4ldZDRBks3tZobn7OFbJFv/0e8234bc1152282a4a9fc544d5c672c0/Fox-Sports.png?fm=webp&q=80" group-title="Deportes" , Fox Sports
-http://181.78.27.128:8000/play/a062/index.m3u8
+http://181.13.173.86:8000/play/a07j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4aUalIxOYo8Wm9dBLL4Jc/42b4317edaf316d7018cca8d947300b4/Fox-Sports-2.png?fm=webp&q=80" group-title="Deportes" , Fox Sports 2
-http://181.78.27.128:8000/play/a006/index.m3u8
+http://181.13.173.86:8000/play/a0ai/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/240XGo19vZRnYoMKvObsC6/dc718d70a21c8c562ec4ec6fb3d5754a/Fox-Sports-3.png?fm=webp&q=80" group-title="Deportes" , Fox Sports 3
-http://181.78.27.128:8000/play/a03y/index.m3u8
+http://181.13.173.86:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/29KPKoeTvsx3PuHk5maUui/2fb421fbd5c8059d6575330ee6ec7d85/20_DeporteTV.png?fm=webp&q=80" group-title="Deportes" , DEPORTV
 http://181.13.173.86:8000/play/a06h/index.m3u8
