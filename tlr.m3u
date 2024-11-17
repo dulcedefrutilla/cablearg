@@ -203,7 +203,7 @@ http://181.209.114.13:8000/play/a06r/index.m3u8
 http://181.209.114.13:8000/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3OamYggD5kfGpnHPj6LcN6/c06f94dbe8efe062bd7d85825acb283e/Premium_10_HBOPOP.png?fm=webp&q=80" group-title="Premium" , HBO POP
-http://186.167.80.82:8126/play/a0h1/index.m3u8
+http://181.176.153.106:8090/play/a0qc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6jfONrEkrlw7SiKxsIsZr1/dea17656d92bae154876d07dc1391863/Premium_09_HBOExtreme.png?fm=webp&q=80" group-title="Premium" , HBO Xtreme
 http://181.209.114.13:8000/play/a02b/index.m3u8
