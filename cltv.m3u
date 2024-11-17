@@ -242,7 +242,7 @@ http://181.13.173.86:8000/play/a024/index.m3u8
 http://181.78.27.128:8000/play/a040/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/dxjEQOGHXp4wEckENKXFT/f525dcd5d21914ca2c54cbebabf62cb1/75_CanalClaroHD.png?fm=webp&q=80" group-title="Entretenimiento", Canal Claro
-http://38.43.151.206:8000/play/a05x/index.m3u8
+http://38.180.133.31:8000/play/a0r8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/iEmoAG070AQj6Z04qanWm/eb443a668d8bb7ef8cf1c9f49cae701a/73_Pasiones.png?fm=webp&q=80" group-title="Entretenimiento" , Pasiones
 http://45.232.148.101:8000/play/a05p/index.m3u8
