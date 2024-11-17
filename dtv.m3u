@@ -26,7 +26,7 @@ http://181.209.114.13:8000/play/a01m/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="Nacionales" , Canal de la Ciudad  
-https://ythls-v3.onrender.com/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+http://181.13.173.86:8000/play/a06e/index.m3u8
 
 
 
@@ -123,7 +123,7 @@ http://45.232.148.101:8000/play/a05p/index.m3u8
 http://181.209.95.29:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png" group-title="Entretenimiento", Telenovelas
-http://181.176.153.106:8090/play/a0ox/index.m3u8
+http://8.242.176.45:1013/play/a0ez/index.m3u8
 
 #EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Lifetime.png" audio-track="spa" group-title="Entretenimiento", Lifetime
 http://181.209.95.29:8000/play/a06n/index.m3u8
@@ -156,7 +156,7 @@ https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/playlist.m3u8
 http://181.13.173.86:8000/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6bFkcbsklRXLeB2ajrnCl8/c5ccbf53c3ab168c6448fb76265d5778/canal-quiero-musica.png?fm=webp&q=80" group-title="Musica" , Quiero Música
-https://ythls-v3.onrender.com/channel/UC_-fqnv3Rp8k9VJ06_aDIHg.m3u8
+http://181.13.173.86:8000/play/a02n/index.m3u8
 
 
 
@@ -292,7 +292,7 @@ http://181.209.114.13:8000/play/a06r/index.m3u8
 http://181.209.114.13:8000/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="Premium", HBO Pop
-http://186.167.80.82:8126/play/a0h1/index.m3u8
+http://181.176.153.106:8090/play/a0qc/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" audio-track="spa" group-title="Premium", HBO Xtreme
 http://181.209.114.13:8000/play/a02b/index.m3u8
@@ -391,7 +391,7 @@ http://181.13.173.86:8000/play/a0ab/index.m3u8
 http://45.5.116.178:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="Noticias", CNN Chile
-http://200.60.124.19:29000/play/a09z/index.m3u8
+http://177.53.155.236:8000/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="Noticias", 24 HORAS
 http://186.148.195.206:8000/play/a06u/index.m3u8
@@ -430,7 +430,7 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="Noticias", Rural TV
-https://ythls-v3.onrender.com/channel/UCPumJ2ayrr-JDsA9JDCUDDQ.m3u8 
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/rural.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="Culturales", Construir TV
 http://190.11.130.46/mnp/construiriptv/output.mpd
