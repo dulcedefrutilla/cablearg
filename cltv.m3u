@@ -146,7 +146,7 @@ http://181.13.173.86:8000/play/a01n/index.m3u8
 http://200.52.148.194:8000/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDuoSxWJVs5GQ4lmyXdk5wnizqVZ1jFS7svg&s" group-title="Infantiles", Plim Plim
-http://45.230.199.108:8000/play/a00g/index.m3u8
+http://200.115.120.1:8000/play/ca091/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7IRItnDZbY1YV1Zf8NA0eu/24b16ed7317309e358903eaaea4f7e57/39_Tooncast.png?fm=webp&q=80" group-title="Infantiles" , Tooncast
 http://186.167.80.82:8126/play/a0f1/index.m3u8
