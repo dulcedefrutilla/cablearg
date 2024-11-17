@@ -214,8 +214,8 @@ http://181.13.173.86:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7jOLhFfEgvIJD81fcVjRpD/95fddfd8e7b896ea3dca3c6ee63fbe42/62_TVE.png?fm=webp&q=80" group-title="Entretenimiento" , TVE
 http://181.209.95.29:8000/play/a072/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7jOLhFfEgvIJD81fcVjRpD/95fddfd8e7b896ea3dca3c6ee63fbe42/62_TVE.png?fm=webp&q=80" group-title="Entretenimiento" , STAR TVE
-http://186.148.163.18:8000/play/a04m/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5HmX5Cx0URS2hZ4HkRI9YR/0911e4b7507cad496b28c8e2051e289a/63_StarTVE.png?fm=webp&q=80" group-title="Entretenimiento" , STAR TVE
+http://217.26.191.85:8126/play/a0dd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/34c67hv0nOq5BrBaEcSqDx/710f3144ad00783b2499a54737334199/64_Atreseries.png?fm=webp&q=80" group-title="Entretenimiento" , ATRESERIES
 http://45.71.252.16:8000/play/a0hq/index.m3u8
