@@ -157,7 +157,7 @@ http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/24horas.playli
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/TECtv_285.png" group-title="TV PLAY", TEC TV
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/tectv.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV PLAY", TELEMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="TV PLAY", TELEMAX
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/telemax.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/net-tv_285.png" group-title="TV PLAY", NET TV
