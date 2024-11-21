@@ -5,7 +5,7 @@
 http://181.209.114.13:8000/play/a06e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5yCPV36WLATWGEgkWv6h3D/5cc84285f9792100a4444091ddd3999b/07_BRAVO-TV-entretenimiento.png?fm=webp&q=80" group-title="Nacionales" , BRAVO TV
-http://23.95.73.56:1234/stream/latino/bravotv/master.m3u8
+http://176.96.137.173:1234/stream/latino/bravotv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/mPtDXrj7PWlaIzFPVW6HJ/acb5a9d4b438c9baedab91d3d18670cb/01_NetTV.png?fm=webp&q=80" group-title="Nacionales" , NET TV
 http://190.94.186.158:8000/play/a0bc/index.m3u8
@@ -65,7 +65,7 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 https://panel.host-live.com/825000/825000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1AKtxHNiKPtMkjPNvAr8wx/fa26bd4d06d66de61b7a12e78296de7e/45_t5-satelital.png?fm=webp&q=80" group-title="locales" , T5 Satelital
-http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/t5satelital.playlist.m3u8
+https://stream.t5satelital.blog/hls/t5satelital.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2vo7XIfCasCBkyOXDppqgH/0d1c4e3fece963dd9a2c3ed2d253cc3c/49_CANAL_Telediario-noticias.png?fm=webp&q=80" group-title="locales" , Telediario TV
 http://181.13.23.198:8000/play/a0f7/index.m3u8
@@ -393,7 +393,7 @@ http://45.5.117.182:8000/play/a0ci/index.m3u8
 http://181.209.114.13:8000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Musica" , CM
-https://g5.proy-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
+https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4GowLVlc2RoBBB34weJeEP/e702560df8180ab04559ad4e2ef5ba12/114_MTV.png?fm=webp&q=80" group-title="Musica" , MTV
 http://181.13.173.86:8000/play/a02m/index.m3u8
