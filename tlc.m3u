@@ -43,7 +43,7 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 https://github.com/mortal251/archivos_m3u8/raw/main/america_hls.m3u8
 
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png" group-title="Nacionales", Net TV
-https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
+http://190.94.186.158:8000/play/a0bc/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="Nacionales", IP Noticias
 http://181.78.27.128:8000/play/a055/index.m3u8
