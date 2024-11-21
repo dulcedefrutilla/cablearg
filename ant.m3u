@@ -39,7 +39,7 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 http://181.209.95.29:8000/play/a0a9/index.m3u8
 
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png" group-title="Nacionales", Net TV
-https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
+http://190.94.186.158:8000/play/a0bc/index.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Encuentro.png" audio-track="spa"  group-title="Nacionales", Encuentro
 http://181.209.114.13:8000/play/a01m/index.m3u8
