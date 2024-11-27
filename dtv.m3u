@@ -379,11 +379,8 @@ http://181.13.173.86:8000/play/a06h/index.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-1-021-UodM6pL9n0Lf5BGv-KuPFtAJHjXW7QjI8qrH8FIxkYnEqLf4Nf80NJqeEhAhHejkI=s48-c-k-c0x00ffffff-no-rj" group-title="Noticias", DNews
-https://ythls.armelin.one/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8
-
+https://ythls-v3.onrender.com/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8
 
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Spanish" group-title="Noticias", CNN en Español
 http://181.13.173.86:8000/play/a0ab/index.m3u8
