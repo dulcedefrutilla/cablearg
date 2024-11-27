@@ -344,13 +344,17 @@ http://181.13.173.86:8000/play/a0ai/index.m3u8
 http://181.13.173.86:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSPORTS 
-http://38.188.100.27:8000/play/a05m/index.m3u8
-
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1382
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSPORTS 
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1059
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSPORTS
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1383
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSPORTS 
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1194
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/07/file-1-1.png" group-title="Deportes", DSPORTS 2 
-http://38.188.100.27:8000/play/a065/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/07/cro1a9IIVYYF0rH8hOn08-transformed.png" group-title="Deportes", DSPORTS PLUS HD
-http://38.188.100.27:8000/play/a066/index.m3u8
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1205
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/07/cro1a9IIVYYF0rH8hOn08-transformed.png" group-title="Deportes", DSPORTS PLUS 
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1195
 
 #EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN
 http://181.13.173.86:8000/play/a0af/index.m3u8
