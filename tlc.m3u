@@ -117,7 +117,7 @@ http://181.13.173.86:8000/play/a076/index.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-id="Golf.Channel.(Latin.America).(GOLF).ar" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/118-GolfChannel.png" group-title="Deportes", Golf Channel
-http://45.5.116.178:8000/play/a00d/index.m3u8
+http://38.191.90.2:8000/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN Premium 
 http://181.13.173.86:8000/play/a078/index.m3u8
