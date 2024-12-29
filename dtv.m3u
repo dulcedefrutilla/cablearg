@@ -186,7 +186,7 @@ http://181.13.173.86:8000/play/a0ac/index.m3u8
 http://181.13.173.86:8000/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/100px-ZooMoo_logo.svg.pngg" audio-track="spa" group-title="Infantiles", Zoomoo
-http://200.52.148.194:8000/play/a02k/index.m3u8
+http://38.191.90.2:8000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryKidsPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DiscoveryKids.png" audio-track="spa" group-title="Infantiles", Discovery Kids
 http://181.13.173.86:8000/play/a06t/index.m3u8
@@ -227,10 +227,10 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 http://181.13.173.86:8000/play/a07d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdsmeTJY2mvWtN2F5JoSICxKunTJlivjcEyg&s" audio-track="spa" group-title="Cine", Golden
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/1624
+http://187.102.208.83:50000/play/a04v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/598px-Sony_Movies_Logo.svg.png" group-title="Cine", Sony Movies
-http://190.211.102.42:4000/play/a06x/index.m3u8
+http://181.209.114.13:8000/play/a05k/index.m3u8
 
 #EXTINF:-1 tvg-id="CinecanalEast.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" audio-track="spa" group-title="Cine", Cinecanal
 http://181.13.173.86:8000/play/a07b/index.m3u8
@@ -251,13 +251,13 @@ http://181.13.173.86:8000/play/a024/index.m3u8
 http://190.60.32.178:8178/play/a08n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoAZOsu7ffvwjCFbNx5Kw5G1beLgqUBNqq2A&s" group-title="Cine", Cine Latino
-http://45.5.116.178:8000/play/a059/index.m3u8
+http://181.78.109.49:8000/play/a05n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.pngs" group-title="Cine", De Pelicula
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/85
+http://190.60.37.154:45000/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUFuAcqbubXLk_9Vba-PKflN5g6W7_qowqAQ&s" group-title="Cine", Golden Edge
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/84
+http://204.12.195.146:80/s7WGdWAcVp/b9RymERkHV/132.m3u8
 
 #EXTINF:-1 tvg-id="SpacePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" audio-track="spa" group-title="Cine", Space
 http://181.13.173.86:8000/play/a02w/index.m3u8
@@ -302,19 +302,19 @@ http://181.13.173.86:8000/play/a02b/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ZzSgskyQeKxH1jVARP4Be/f5e9c9bd641b4b6b524a2677e0f60842/universal-premiere.png?fm=webp&q=80" group-title="Premium" , Universal Premiere
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/1661
+http://38.191.90.2:8000/play/a04o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="Premium" , Universal Cinema
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/1662
+http://181.78.109.49:8000/play/a06a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3E162p4ysAkaik0txYYN0k/66dc9be0cc3d18c163e5d9f1f8b97b78/universal-comedy.png?fm=webp&q=80" group-title="Premium" , Universal Comedy
 http://45.170.225.212:48001/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3gBoVelP3w7EOJ9cF2AFxL/b7a0f9e1db82041c815a8754ed9abd05/universal-crime.png?fm=webp&q=80" group-title="Premium" , Universal Crime
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/1663
+http://38.191.90.2:8000/play/a04r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/26kcx0bBMEXfcFCR7gea7t/1c1b48583ea217a1a21020d12a8e0d3a/universal-reality.png?fm=webp&q=80" group-title="Premium" , Universal Reality
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/1664
+http://38.191.90.2:8000/play/a04q/index.m3u8
 
 
 
