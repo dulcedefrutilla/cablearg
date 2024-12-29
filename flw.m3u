@@ -104,7 +104,7 @@ http://181.13.173.86:8000/play/a02t/index.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-id="Golf.Channel.(Latin.America).(GOLF).ar" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/118-GolfChannel.png" group-title="Deportes", Golf Channel
-http://45.5.116.178:8000/play/a00d/index.m3u8
+http://38.191.90.2:8000/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTurbo.png" audio-track="spa" group-title="Deportes", Discovery Turbo
 http://181.13.173.86:8000/play/a01w/index.m3u8
@@ -193,19 +193,19 @@ http://181.13.173.86:8000/play/a02c/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ZzSgskyQeKxH1jVARP4Be/f5e9c9bd641b4b6b524a2677e0f60842/universal-premiere.png?fm=webp&q=80" group-title="Universal" , Universal Premiere
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/1661
+http://38.191.90.2:8000/play/a04o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="Universal" , Universal Cinema
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/1662
+http://181.78.109.49:8000/play/a06a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3E162p4ysAkaik0txYYN0k/66dc9be0cc3d18c163e5d9f1f8b97b78/universal-comedy.png?fm=webp&q=80" group-title="Universal" , Universal Comedy
-http://45.170.225.212:48001/play/a038/index.m3u
+http://45.170.225.212:48001/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3gBoVelP3w7EOJ9cF2AFxL/b7a0f9e1db82041c815a8754ed9abd05/universal-crime.png?fm=webp&q=80" group-title="Universal" , Universal Crime
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/1663
+http://38.191.90.2:8000/play/a04r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/26kcx0bBMEXfcFCR7gea7t/1c1b48583ea217a1a21020d12a8e0d3a/universal-reality.png?fm=webp&q=80" group-title="Universal" , Universal Reality
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/1664
+http://38.191.90.2:8000/play/a04q/index.m3u8
 
 
 
@@ -269,13 +269,13 @@ http://181.13.173.86:8000/play/a020/index.m3u8
 http://181.13.173.86:8000/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/34c67hv0nOq5BrBaEcSqDx/710f3144ad00783b2499a54737334199/64_Atreseries.png?fm=webp&q=80" group-title="Entretenimiento" , ATRESERIES
-http://45.71.252.16:8000/play/a0hq/index.m3u8
+http://38.188.100.27:8000/play/a07n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdsmeTJY2mvWtN2F5JoSICxKunTJlivjcEyg&s" audio-track="spa" group-title="Cine", Golden
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/1624
+http://187.102.208.83:50000/play/a04v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/598px-Sony_Movies_Logo.svg.png" group-title="Entretenimiento", Sony Movies
-http://192.141.95.253:8000/play/a01e/index.m3u8
+http://181.209.114.13:8000/play/a05k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Entretenimiento", ID
 http://181.78.27.128:8000/play/a041/index.m3u8
@@ -287,10 +287,10 @@ http://181.13.173.86:8000/play/a02x/index.m3u8
 http://181.13.173.86:8000/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReSzO0UauKeVnjiVx9Dccj-mmMa70EoZzXJQ&s" group-title="Entretenimiento", DHE
-http://38.43.151.206:8000/play/a05h/index.m3u8
+http://190.60.32.178:8178/play/a08n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/iEmoAG070AQj6Z04qanWm/eb443a668d8bb7ef8cf1c9f49cae701a/73_Pasiones.png?fm=webp&q=80" group-title="Entretenimiento" , Pasiones
-http://45.232.148.101:8000/play/a05p/index.m3u8
+http://181.209.95.29:8000/play/a0aj/index.m3u8
 
 #EXTINF:-1 tvg-id="TelemundoCentralAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telemundo.png" tvg-language="Spanish" group-title="Entretenimiento", Telemundo Internacional
 http://181.78.27.128:8000/play/a03z/index.m3u8
@@ -299,10 +299,10 @@ http://181.78.27.128:8000/play/a03z/index.m3u8
 http://181.78.27.128:8000/play/a044/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png" group-title="Entretenimiento", Telenovelas
-http://8.242.176.45:1013/play/a0ez/index.m3u8
+http://200.115.120.1:8000/play/ca020/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/adults.png"group-title="Entretenimiento", Adult Swin
-http://45.228.234.210:8000/play/a058/index.m3u8
+http://176.96.137.173:1234/stream/latino/adultswim/master.m3u8
 
 #EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Lifetime.png" audio-track="spa" group-title="Entretenimiento", Lifetime
 http://181.13.173.86:8000/play/a06n/index.m3u8
@@ -311,7 +311,7 @@ http://181.13.173.86:8000/play/a06n/index.m3u8
 http://181.13.173.86:8000/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-FoodNetwork.png" audio-track="spa" group-title="Entretenimiento", Food Network
-https://dplus.gammacdn.workers.dev/videos/112.m3u8 
+http://181.176.153.106:8090/play/a0x5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/50.png" group-title="Varios", E! 
 http://191.52.214.5:8000/play/a03f/index.m3u8
@@ -329,10 +329,10 @@ http://181.78.27.128:8000/play/a03u/index.m3u8
 http://181.209.95.29:8000/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7bpzYrUNwKD8bjUR4L4xEF/2b2c1bced3899a54e9143558f19e5ebd/78_HolaTV.png?fm=webp&q=80" group-title="Varios" , Hola TV
-https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
+http://160.20.165.246:8000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="Varios", Rural TV
-https://ythls-v3.onrender.com/channel/UCPumJ2ayrr-JDsA9JDCUDDQ.m3u8 
+http://181.209.95.29:8000/play/a02f/index.m3u8
 
 
 
@@ -374,7 +374,7 @@ http://181.13.173.86:8000/play/a07i/index.m3u8
 http://45.5.117.182:8000/play/a0hu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/100px-2015_Discovery_theater_HD_logo.svg.png" group-title="Culturales", Discovery Theater HD
-http://192.141.95.253:8000/play/a02m/index.m3u8
+http://179.63.36.2:8000/play/a0p6/index.m3u8
 
 #EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History.png" audio-track="spa" group-title="Culturales", History
 http://181.13.173.86:8000/play/a0aj/index.m3u8
@@ -389,7 +389,7 @@ http://181.13.173.86:8000/play/a030/index.m3u8
 http://181.78.109.49:8000/play/a03k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/100px-World_Discovery_HD_logo.svg.png" group-title="Culturales", Discovery World HD
-http://192.141.95.253:8000/play/a02o/index.m3u8
+http://201.217.246.166:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2Epkdd93g9ercbqDzKQFoe/36c820d026574873c07232d83a9e9cd1/89_DiscoveryScience.png?fm=webp&q=80" group-title="Culturales" , Discovery Science 
 http://181.13.173.86:8000/play/a02k/index.m3u8
@@ -405,19 +405,19 @@ http://181.13.173.86:8000/play/a02k/index.m3u8
 
 
 #EXTINF:-1 tvg-id="MTVSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MTV.png" audio-track="spa" group-title="Musica", MTV
-http://190.0.241.181:8000/play/a06u/index.m3u8
+http://181.13.173.86:8000/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6bFkcbsklRXLeB2ajrnCl8/c5ccbf53c3ab168c6448fb76265d5778/canal-quiero-musica.png?fm=webp&q=80" group-title="Musica" , Quiero Música
 http://181.13.173.86:8000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/W2KdC8bXe-lXWS7ki5lcoW9cJ_59kNiiiMmCvbfU6pM6Dj1lLVoRZmanBdJ3oXcVzzUbhymr2A=s176-c-k-c0x00ffffff-no-rj" group-title="Musica", VORTERIX
-https://g5.proy-hor.transport.edge-access.net/b04/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
+https://g3.mc-hor.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2G4IHnfxSj2GwTRpmR53wy/7ee34ba27d8dab44e2dddd82b16aca9f/558-mtv_00s.png?fm=webp&q=80" group-title="Musica" , MTV 00's
-http://190.211.102.42:4000/play/a04g/index.m3u8
+http://176.96.137.173:1234/stream/latino/mtv00s/master.m3u8
 
 #EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-HTV.png" audio-track="spa" group-title="Musica", HTV
-http://200.52.148.194:8000/play/a04j/index.m3u8
+http://181.209.95.29:8000/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Musica", CM
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
@@ -429,7 +429,7 @@ http://45.5.117.182:8000/play/a0f1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="AMBA", Canal de la Ciudad  
-https://ythls-v3.onrender.com/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+http://181.13.173.86:8000/play/a06e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2023/03/Marca-UNLP-TV-sin-fondo.png" group-title="AMBA", TVU LA PLATA
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8 
@@ -452,16 +452,16 @@ http://181.13.173.86:8000/play/a02p/index.m3u8
 http://187.102.208.83:50000/play/a05b/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKelKSEi9HoRVrZGjbBtgjZpa_KEQo6PyGBQ&s" tvg-language="Spanish" group-title="Internacionales", Antena 3
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/564
+http://160.20.165.246:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telesur.png" group-title="Internacionales", Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/cnn@2x.png" group-title="Internacionales", CNN
-https://rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8
+http://181.78.109.49:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/BBC%20News%20128.png" group-title="Internacionales", BBC News
-http://45.5.116.178:8000/play/a025/index.m3u8
+http://45.5.151.151:8000/play/a0ld/index.m3u8
 
 #EXTINF:-1 tvg-id="60d3583ef310610007fb02b1" tvg-chno="280" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="Internacionales", Euronews
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
