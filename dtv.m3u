@@ -56,7 +56,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0213
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0375
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" group-title="Locales", Canal 8 San Juan
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0342
+https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0341
 
 #EXTINF:-1 tvg-logo="https://tvpp.lapampa.gob.ar/images/LOGOS_SITIO_CANAL.png" group-title="Locales", TV Publica Pampeana
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
