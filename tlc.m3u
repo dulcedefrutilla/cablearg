@@ -61,7 +61,7 @@ http://200.121.48.17:8000/play/a06x/index.m3u8
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1x137ostiNGYbXe5sP-LYMun9ghpr_uz54WATZM7rVeBBrDV-8DQV0Hy8Fv8kbWeX_BIY48Vbng=s176-c-k-c0x00ffffff-no-rj" group-title="Nacionales", Extra TV
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0021
+http://200.121.48.17:8000/play/a08p/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://fotos.perfil.com/2024/03/04/trim/1280/720/caras-tv-1764928.jpg" group-title="Nacionales", CARAS TV 
 https://unlimited2-cl-isp.dps.live/carastv/carastv.smil/playlist.m3u8
