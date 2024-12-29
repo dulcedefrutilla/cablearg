@@ -192,10 +192,10 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 http://181.13.173.86:8000/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/cnn@2x.png" group-title="Internacionales", CNN
-http://45.5.116.178:8000/play/a00e/index.m3u8
+http://181.78.109.49:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/BBC%20News%20128.png" group-title="Internacionales", BBC News
-http://45.5.116.178:8000/play/a025/index.m3u8
+http://45.5.151.151:8000/play/a0ld/index.m3u8
 
 #EXTINF:-1 tvg-id="Deutsche.Welle.TV.Español.(DW-ES).ar" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRXa4spPp-4sq5SEYWTdxp-pclfjHHjFSqrnMbA=s900-c-k-c0x00ffffff-no-rj" tvg-language="Spanish" group-title="Internacionales", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
@@ -362,10 +362,10 @@ http://181.78.27.128:8000/play/a03u/index.m3u8
 http://190.11.130.46/mnp/construiriptv/output.mpd
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="Culturales", Rural TV
-https://ythls.armelin.one/channel/UCPumJ2ayrr-JDsA9JDCUDDQ.m3u8
+http://181.209.95.29:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-FoodNetwork.png" audio-track="spa" group-title="Culturales", Food Network
-https://dplus.gammacdn.workers.dev/videos/112.m3u8 
+http://181.176.153.106:8090/play/a0x5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2Epkdd93g9ercbqDzKQFoe/36c820d026574873c07232d83a9e9cd1/89_DiscoveryScience.png?fm=webp&q=80" group-title="Culturales" , Discovery Science 
 http://181.13.173.86:8000/play/a02k/index.m3u8
@@ -396,7 +396,7 @@ https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-10004
 http://190.211.102.42:4000/play/a04g/index.m3u8
 
 #EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-HTV.png" audio-track="spa" group-title="Musica", HTV
-http://190.0.241.181:8000/play/a06u/index.m3u8
+http://181.209.95.29:8000/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/33QT9mcUIUX6ezV5xXA61r/6da57dc09d602d6ba128357517588d3c/115_MTVHits.png?fm=webp&q=80" group-title="Musica" , MTV Hits
 http://45.5.117.182:8000/play/a0f1/index.m3u8
