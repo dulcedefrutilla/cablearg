@@ -104,7 +104,7 @@ http://181.13.173.86:8000/play/a0ar/index.m3u8
 http://181.13.173.86:8000/play/a023/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/adults.png"group-title="Entretenimiento", Adult Swin
-http://45.228.234.210:8000/play/a058/index.m3u8
+http://176.96.137.173:1234/stream/latino/adultswim/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7bpzYrUNwKD8bjUR4L4xEF/2b2c1bced3899a54e9143558f19e5ebd/78_HolaTV.png?fm=webp&q=80" group-title="Entretenimiento" , Hola TV
 http://160.20.165.246:8000/play/a009/index.m3u8
@@ -369,7 +369,7 @@ http://181.13.173.86:8000/play/a0ag/index.m3u8
 http://181.13.173.86:8000/play/a0ah/index.m3u8
 
 #EXTINF:-1 tvg-id="Golf.Channel.(Latin.America).(GOLF).ar" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/118-GolfChannel.png" group-title="Deportes", Golf Channel
-http://45.5.116.178:8000/play/a00d/index.m3u8
+http://38.191.90.2:8000/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="Deportes", TyC Sports
 http://181.78.27.128:8000/play/a063/index.m3u8 
@@ -397,13 +397,13 @@ https://ythls-v3.onrender.com/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8
 http://181.13.173.86:8000/play/a0ab/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/cnn@2x.png" group-title="Noticias", CNN
-http://45.5.116.178:8000/play/a00e/index.m3u8
+http://181.78.109.49:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="Noticias", CNN Chile
 http://177.53.155.236:8000/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="Noticias", 24 HORAS
-http://186.148.195.206:8000/play/a06u/index.m3u8
+http://207.248.2.105:3200/play/a0gc/index.m3u8
 
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="Noticias", La Nación +
 http://181.13.173.86:8000/play/a01s/index.m3u8
@@ -430,7 +430,7 @@ http://181.78.27.128:8000/play/a055/index.m3u8
 https://g5.vxral-hor.transport.edge-access.net/a11/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://intn24.lalr.co/img/post-default.png" group-title="Noticias", NTN 24
-http://186.148.195.206:8000/play/a02m/index.m3u8
+http://160.20.165.246:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="Noticias", Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
@@ -439,7 +439,7 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="Noticias", Rural TV
-https://ythls.armelin.one/channel/UCPumJ2ayrr-JDsA9JDCUDDQ.m3u8
+http://181.209.95.29:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="Culturales", Construir TV
 http://190.11.130.46/mnp/construiriptv/output.mpd
@@ -483,22 +483,22 @@ http://181.78.109.49:8000/play/a03k/index.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKelKSEi9HoRVrZGjbBtgjZpa_KEQo6PyGBQ&s" tvg-language="Spanish" group-title="Internacionales", Antena 3
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/564
+http://160.20.165.246:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/rai@2x.png" group-title="Internacionales", RAI
 http://181.13.173.86:8000/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/BBC%20News%20128.png" group-title="Internacionales", BBC News
-http://45.5.116.178:8000/play/a025/index.m3u8
+http://45.5.151.151:8000/play/a0ld/index.m3u8
 
 #EXTINF:-1 tvg-id="Deutsche.Welle.TV.Español.(DW-ES).ar" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRXa4spPp-4sq5SEYWTdxp-pclfjHHjFSqrnMbA=s900-c-k-c0x00ffffff-no-rj" tvg-language="Spanish" group-title="Internacionales", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh_ZxUnopPpN9XXpCMhpq8ocEKpTtFCEgxiQ&s" group-title="Internacionales", Caracol
-http://190.60.32.178:8178/play/a0a6/index.m3u8
+http://160.20.165.246:8000/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpSI5D9txUQlXVE0jnNLq48m5QVxeEdBQFJg&s" group-title="Internacionales", TV Chile
-http://190.211.102.42:4000/play/a00g/index.m3u8
+http://187.102.208.83:50000/play/a05b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5MadD8WPFjcQeZ13wKAcMKz-D4GgKEi3fIQ&s" group-title="Internacionales", RCN
 http://181.78.4.186:8000/play/a0g6/index.m3u8
