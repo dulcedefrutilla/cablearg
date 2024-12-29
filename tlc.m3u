@@ -55,7 +55,7 @@ http://176.96.137.173:1234/stream/latino/bravotv/master.m3u8
 https://g4.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSLt6hRUX4fw0YfUUdHKjBz_moAzzwRHre_RJhF4HFyqsEKDD9ppxuRNkbK1m02rTWQRqPaZkLq7GoBZSylGJmIwDSvNaQhXntbhrbxK7uy9PeiA5ujNFllB1zrx6CSLXUywsjpm7hMgTSIvB2LMMeqx2Ytb3KV_Nqxm_v9aawEU3FMxuyCBC-Gpri/s392/eldestape-sinfino.png" group-title="Nacionales", El Destape TV 
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0075
+http://200.121.48.17:8000/play/a06x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="Nacionales", Canal E
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
