@@ -227,7 +227,7 @@ http://45.5.117.183:9000/play/a0ka/index.m3u8
 http://181.13.173.86:8000/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-FoodNetwork.png" audio-track="spa" group-title="Varios", Food Network
-https://dplus.gammacdn.workers.dev/videos/112.m3u8
+http://181.176.153.106:8090/play/a0x5/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryHH.png" audio-track="spa" group-title="Varios", Discovery H&H
 http://181.13.173.86:8000/play/a07h/index.m3u8
@@ -247,7 +247,7 @@ http://181.78.27.128:8000/play/a041/index.m3u8
 http://181.13.173.86:8000/play/a0al/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png" group-title="Culturales" , Love Nature
-http://186.148.163.18:8000/play/a04s/index.m3u8
+http://160.20.165.246:8000/play/a00d/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AnimalPlanet.png" audio-track="spa" group-title="Culturales", Animal Planet
 http://45.5.117.182:8000/play/a0hu/index.m3u8
@@ -283,7 +283,7 @@ https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/c
 http://181.78.27.128:8000/play/a03z/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="Varios", Rural TV
-https://ythls-v3.onrender.com/channel/UCPumJ2ayrr-JDsA9JDCUDDQ.m3u8 
+http://181.209.95.29:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F6SR26t/cocen.png" group-title="Varios", Comedy Central
 http://181.13.173.86:8000/play/a02x/index.m3u8
@@ -307,7 +307,7 @@ http://181.13.173.86:8000/play/a02n/index.m3u8
 http://200.115.120.1:8000/play/ca005/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.reportv.com.ar/buscador/img/Logos/20105138.jpg" group-title="Entretenimiento", Sony Movies
-http://45.71.252.16:8000/play/a0hk/index.m3u8
+http://181.209.114.13:8000/play/a05k/index.m3u8
 
 
 
