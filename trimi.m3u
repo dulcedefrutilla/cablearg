@@ -128,7 +128,7 @@ http://181.13.173.86:8000/play/a079/index.m3u8
 http://181.13.173.86:8000/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/adults.png"group-title="Entretenimiento", Adult Swin
-http://45.228.234.210:8000/play/a058/index.m3u8
+http://176.96.137.173:1234/stream/latino/adultswim/master.m3u8
 
 #EXTINF:-1 tvg-id="ar#sony-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Sony.png" audio-track="spa" group-title="Entretenimiento", Sony Channel
 http://181.13.173.86:8000/play/a0ao/index.m3u8
@@ -267,7 +267,7 @@ http://45.5.117.182:8000/play/a0fg/index.m3u8
 http://181.78.27.128:8000/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-FoodNetwork.png" audio-track="spa" group-title="Varios", Food Network
-https://dplus.gammacdn.workers.dev/videos/112.m3u8 
+http://181.176.153.106:8090/play/a0x5/index.m3u8
 
 #EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png" audio-track="spa" group-title="Varios", El Gourmet
 http://181.13.173.86:8000/play/a06w/index.m3u8
@@ -315,13 +315,13 @@ http://181.78.109.49:8000/play/a03k/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2G4IHnfxSj2GwTRpmR53wy/7ee34ba27d8dab44e2dddd82b16aca9f/558-mtv_00s.png?fm=webp&q=80" group-title="Musica" , MTV 00's
-http://190.211.102.42:4000/play/a04g/index.m3u8
+http://176.96.137.173:1234/stream/latino/mtv00s/master.m3u8
 
 #EXTINF:-1 tvg-id="MTVSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MTV.png" audio-track="spa" group-title="Musica", MTV
 http://181.13.173.86:8000/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-HTV.png" audio-track="spa" group-title="Musica", HTV
-http://200.52.148.194:8000/play/a04j/index.m3u8
+http://181.209.95.29:8000/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Musica", CM
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
@@ -340,7 +340,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 http://181.209.95.29:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="Internacionales", FRANCE 24 ESPAÑOL
-https://ythls-v3.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+http://200.26.177.54:8000/play/a0hu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7jOLhFfEgvIJD81fcVjRpD/95fddfd8e7b896ea3dca3c6ee63fbe42/62_TVE.png?fm=webp&q=80" group-title="Internacionales" , TVE
 http://181.209.95.29:8000/play/a072/index.m3u8
