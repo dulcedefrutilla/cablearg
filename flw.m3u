@@ -449,7 +449,7 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 http://181.13.173.86:8000/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpSI5D9txUQlXVE0jnNLq48m5QVxeEdBQFJg&s" group-title="Internacionales", TV Chile
-http://187.102.208.83:50000/play/a05b/index.m3u8
+http://207.248.2.105:3200/play/a09c/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKelKSEi9HoRVrZGjbBtgjZpa_KEQo6PyGBQ&s" tvg-language="Spanish" group-title="Internacionales", Antena 3
 http://160.20.165.246:8000/play/a00e/index.m3u8
@@ -485,7 +485,7 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="Internacionales", France 24 ESPAÑOL
-http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/france24.playlist.m3u8
+http://200.26.177.54:8000/play/a0hu/index.m3u8
 
 
 
