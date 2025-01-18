@@ -47,13 +47,13 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 https://ythls-v3.onrender.com/channel/UCW1sJwBOGgPhSPXJ-6pjF6w.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="Locales" , El Doce Cordoba
-https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8 
+http://190.123.90.146:8000/play/a039/index.m3u8
 
 #EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="Locales", Telefe Cordoba
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0213
+http://190.123.90.146:8000/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="Locales", Telefe Rosario
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0375
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0376
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" group-title="Locales", Canal 8 San Juan
 https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0341
@@ -86,7 +86,7 @@ http://181.13.173.86:8000/play/a01z/index.m3u8
 http://181.13.173.86:8000/play/a07e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/34c67hv0nOq5BrBaEcSqDx/710f3144ad00783b2499a54737334199/64_Atreseries.png?fm=webp&q=80" group-title="Entretenimiento" , ATRESERIES
-http://38.188.100.27:8000/play/a07n/index.m3u8
+http://38.191.90.2:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F6SR26t/cocen.png" group-title="Entretenimiento", Comedy Central
 http://181.13.173.86:8000/play/a02x/index.m3u8
@@ -104,13 +104,13 @@ http://181.13.173.86:8000/play/a0ar/index.m3u8
 http://181.13.173.86:8000/play/a023/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/adults.png"group-title="Entretenimiento", Adult Swin
-http://176.96.137.173:1234/stream/latino/adultswim/master.m3u8
+http://45.228.234.133:8000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7bpzYrUNwKD8bjUR4L4xEF/2b2c1bced3899a54e9143558f19e5ebd/78_HolaTV.png?fm=webp&q=80" group-title="Entretenimiento" , Hola TV
-http://160.20.165.246:8000/play/a009/index.m3u8
+http://38.191.90.2:8000/play/a04k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/50.png" group-title="Entretenimiento", E! 
-http://191.52.214.5:8000/play/a03f/index.m3u8
+http://160.20.165.246:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Entretenimiento", ID
 http://181.78.27.128:8000/play/a041/index.m3u8
@@ -122,7 +122,7 @@ http://181.209.95.29:8000/play/a0aj/index.m3u8
 http://181.209.95.29:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png" group-title="Entretenimiento", Telenovelas
-http://8.242.176.45:1013/play/a0ez/index.m3u8
+http://201.182.248.254:8888/play/a06b/index.m3u8
 
 #EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Lifetime.png" audio-track="spa" group-title="Entretenimiento", Lifetime
 http://181.209.95.29:8000/play/a06n/index.m3u8
@@ -140,7 +140,7 @@ http://181.78.27.128:8000/play/a03z/index.m3u8
 http://181.13.173.86:8000/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-FoodNetwork.png" audio-track="spa" group-title="Entretenimiento", Food Network
-http://181.176.153.106:8090/play/a0x5/index.m3u8
+http://8.242.176.45:1013/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-CiudadMagazine.png" group-title="Entretenimiento", Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
@@ -236,7 +236,7 @@ http://181.209.114.13:8000/play/a05k/index.m3u8
 http://181.13.173.86:8000/play/a07b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3Q4Kcrs1ArtiZ3dA4QCCFW/7872da4c0f5bcc4bd5ca0f95041d7f1d/59_StudioUniversal.png?fm=webp&q=80" group-title="Cine" , Studio Universal
-http://181.176.153.106:8090/play/a0ez/index.m3u8
+http://200.26.177.54:8000/play/a0d3/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#cinemax-sur" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png" audio-track="spa" group-title="Cine", Cinemax
 http://181.78.27.128:8000/play/a031/index.m3u8
@@ -248,7 +248,7 @@ http://181.13.173.86:8000/play/a02y/index.m3u8
 http://181.13.173.86:8000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReSzO0UauKeVnjiVx9Dccj-mmMa70EoZzXJQ&s" group-title="Cine", DHE
-http://190.60.32.178:8178/play/a08n/index.m3u8
+http://8.242.176.45:1013/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoAZOsu7ffvwjCFbNx5Kw5G1beLgqUBNqq2A&s" group-title="Cine", Cine Latino
 http://181.78.109.49:8000/play/a05n/index.m3u8
@@ -403,7 +403,7 @@ http://181.78.109.49:8000/play/a00n/index.m3u8
 http://177.53.155.236:8000/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="Noticias", 24 HORAS
-http://207.248.2.105:3200/play/a0gc/index.m3u8
+http://200.113.4.75:7210/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="Noticias", La Nación +
 http://181.13.173.86:8000/play/a01s/index.m3u8
@@ -498,7 +498,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/strea
 http://160.20.165.246:8000/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpSI5D9txUQlXVE0jnNLq48m5QVxeEdBQFJg&s" group-title="Internacionales", TV Chile
-http://187.102.208.83:50000/play/a05b/index.m3u8
+http://181.78.109.49:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5MadD8WPFjcQeZ13wKAcMKz-D4GgKEi3fIQ&s" group-title="Internacionales", RCN
 http://181.78.4.186:8000/play/a0g6/index.m3u8
