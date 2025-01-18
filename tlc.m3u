@@ -148,7 +148,7 @@ http://181.13.173.86:8000/play/a0am/index.m3u8
 http://181.78.27.128:8000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.reportv.com.ar/buscador/img/Logos/20068539.jpg" group-title="Infantiles", Dreamworks
-http://200.115.120.1:8000/play/ca005/index.m3u8
+http://8.242.176.45:1013/play/a0ck/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryKidsPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DiscoveryKids.png" audio-track="spa" group-title="Infantiles", Discovery Kids
 http://181.13.173.86:8000/play/a06t/index.m3u8
@@ -174,7 +174,7 @@ http://181.78.109.49:8000/play/a04e/index.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://telecentro.com.ar/img/cm/channels/tve@2x.png" group-title="Internacionales", TVE
-http://181.78.4.186:8000/play/a0e1/index.m3u8
+http://200.60.124.19:29000/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Spanish" group-title="Internacionales", CNN en Español
 http://181.13.173.86:8000/play/a0ab/index.m3u8
@@ -257,7 +257,7 @@ http://181.13.173.86:8000/play/a0a8/index.m3u8
 http://181.78.27.128:8000/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/adults.png"group-title="Entretenimiento", Adult Swin
-http://176.96.137.173:1234/stream/latino/adultswim/master.m3u8
+http://45.228.234.133:8000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gr5NLZ4T3dJdykoSJzHsVjNwv4aXgcDCm5hitLmG-eOmOhtlieUoTJufQrCRS-jhy74=w240-h480" group-title="Entretenimiento", Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
@@ -365,7 +365,7 @@ http://190.11.130.46/mnp/construiriptv/output.mpd
 http://181.209.95.29:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-FoodNetwork.png" audio-track="spa" group-title="Culturales", Food Network
-http://181.176.153.106:8090/play/a0x5/index.m3u8
+http://8.242.176.45:1013/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2Epkdd93g9ercbqDzKQFoe/36c820d026574873c07232d83a9e9cd1/89_DiscoveryScience.png?fm=webp&q=80" group-title="Culturales" , Discovery Science 
 http://181.13.173.86:8000/play/a02k/index.m3u8
@@ -393,7 +393,7 @@ http://181.13.173.86:8000/play/a02n/index.m3u8
 https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2G4IHnfxSj2GwTRpmR53wy/7ee34ba27d8dab44e2dddd82b16aca9f/558-mtv_00s.png?fm=webp&q=80" group-title="Musica" , MTV 00's
-http://176.96.137.173:1234/stream/latino/mtv00s/master.m3u8
+http://181.78.109.49:8000/play/a03t/index.m3u8
 
 #EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-HTV.png" audio-track="spa" group-title="Musica", HTV
 http://181.209.95.29:8000/play/a02o/index.m3u8
