@@ -273,19 +273,19 @@ http://181.13.173.86:8000/play/a02w/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ar#hbo" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO.png" audio-track="spa" group-title="Premium", HBO
-http://181.13.173.86:8000/play/a06o/index.m3u8
+http://181.209.114.13:8000/play/a06o/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#hbo-2-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO2.png" audio-track="spa" group-title="Premium", HBO 2
-http://181.13.173.86:8000/play/a06q/index.m3u8
+http://181.209.114.13:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" audio-track="spa" group-title="Premium", HBO Plus
-http://181.13.173.86:8000/play/a06p/index.m3u8
+http://181.209.114.13:8000/play/a06p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/77tiTKhe5p80XL5mgv2GX4/17c2b387b7a33cb13dbd5abbec8fe5ba/Premium_07_HBOSignature.png?fm=webp&q=80" group-title="Premium" , HBO Signature
 http://181.13.173.86:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#hbo-family-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png" audio-track="spa" group-title="Premium", HBO Family
-http://181.13.173.86:8000/play/a06r/index.m3u8
+http://181.209.114.13:8000/play/a06r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/HBO%20Mundi.png"group-title="Premium", HBO Mundi
 http://181.13.173.86:8000/play/a02a/index.m3u8
@@ -302,19 +302,19 @@ http://181.13.173.86:8000/play/a02b/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ZzSgskyQeKxH1jVARP4Be/f5e9c9bd641b4b6b524a2677e0f60842/universal-premiere.png?fm=webp&q=80" group-title="Premium" , Universal Premiere
-http://38.191.90.2:8000/play/a04o/index.m3u8
+http://190.60.40.37:8001/play/a097
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="Premium" , Universal Cinema
-http://181.78.109.49:8000/play/a06a/index.m3u8
+http://190.60.40.37:8001/play/a0ao
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3E162p4ysAkaik0txYYN0k/66dc9be0cc3d18c163e5d9f1f8b97b78/universal-comedy.png?fm=webp&q=80" group-title="Premium" , Universal Comedy
-http://45.170.225.212:48001/play/a038/index.m3u8
+http://190.60.40.37:8001/play/a09b
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3gBoVelP3w7EOJ9cF2AFxL/b7a0f9e1db82041c815a8754ed9abd05/universal-crime.png?fm=webp&q=80" group-title="Premium" , Universal Crime
-http://38.191.90.2:8000/play/a04r/index.m3u8
+http://190.60.40.37:8001/play/a09a
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/26kcx0bBMEXfcFCR7gea7t/1c1b48583ea217a1a21020d12a8e0d3a/universal-reality.png?fm=webp&q=80" group-title="Premium" , Universal Reality
-http://38.191.90.2:8000/play/a04q/index.m3u8
+http://190.60.40.37:8001/play/a099
 
 
 
