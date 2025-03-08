@@ -180,16 +180,16 @@ http://45.230.38.117:8000/play/a06y
 
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7icW4eGEsDwYW0SGbEizl0/11e491f83fef667f6b5242efe73ce4c5/Premium_04_HBO.png?fm=webp&q=80" group-title="Premium" , HBO
-http://181.13.173.86:8000/play/a06o/index.m3u8
+http://181.209.114.13:8000/play/a06o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ebb9rED2Ut2MWogfEMWq2/ac8d80f6fd0c403474144aee4723510b/Premium_06_HBOPlus.png?fm=webp&q=80" group-title="Premium" , HBO PLUS HD
-http://181.13.173.86:8000/play/a06p/index.m3u8
+http://181.209.114.13:8000/play/a06p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/69ZCAfInUfsT4Q4HKNqenB/e663327079caa7727a6c92f421375c47/Premium_08_HBO2.png?fm=webp&q=80" group-title="Premium" , HBO 2
-http://181.13.173.86:8000/play/a06q/index.m3u8
+http://181.209.114.13:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5bKzSwd0Mu1shRgqL7xwWD/80c78ad02cdc722d2035cbe4395fb5f8/Premium_03_HBOFamily.png?fm=webp&q=80" group-title="Premium" , HBO FAMILY HD
-http://181.13.173.86:8000/play/a06r/index.m3u8
+http://181.209.114.13:8000/play/a06r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/26mE7OYl09nkFyQcGMv4mo/4190f92a6b036b9c6f710a6849490376/Premium_05_HBOMundi.png?fm=webp&q=80" group-title="Premium" , HBO Mundi
 http://181.13.173.86:8000/play/a02a/index.m3u8
