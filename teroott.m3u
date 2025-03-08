@@ -41,7 +41,13 @@ http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
 http://179.51.136.19:8000/play/a112/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS 
-http://200.121.48.17:8000/play/a0jm/index.m3u8
+http://190.216.162.153:8001/play/a05f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS 
+http://190.216.162.153:8001/play/a05h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS 
+http://190.216.162.153:8001/play/a05g/index.m3u8
 
 
 
@@ -79,13 +85,16 @@ http://181.13.173.86:8000/play/a078/index.m3u8
 http://181.13.173.86:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 11
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6843
+http://186.148.196.82:8001/play/a04r
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 12
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6858
+http://186.148.196.82:8001/play/a00p
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 13
-http://186.148.196.82:8001/play/a04r
+http://138.121.114.50:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 14
+http://138.121.114.50:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 14
 http://186.148.196.82:8001/play/a00p
