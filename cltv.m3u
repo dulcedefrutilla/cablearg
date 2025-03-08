@@ -249,16 +249,16 @@ http://38.180.133.31:8000/play/a0r8/index.m3u8
 http://45.232.148.101:8000/play/a05p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7icW4eGEsDwYW0SGbEizl0/11e491f83fef667f6b5242efe73ce4c5/Premium_04_HBO.png?fm=webp&q=80" group-title="Premium" , HBO
-http://181.13.173.86:8000/play/a06o/index.m3u8
+http://181.209.114.13:8000/play/a06o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/69ZCAfInUfsT4Q4HKNqenB/e663327079caa7727a6c92f421375c47/Premium_08_HBO2.png?fm=webp&q=80" group-title="Premium" , HBO 2
-http://181.13.173.86:8000/play/a06q/index.m3u8
+http://181.209.114.13:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ebb9rED2Ut2MWogfEMWq2/ac8d80f6fd0c403474144aee4723510b/Premium_06_HBOPlus.png?fm=webp&q=80" group-title="Premium" , HBO PLUS HD
-http://181.13.173.86:8000/play/a06p/index.m3u8
+http://181.209.114.13:8000/play/a06p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5bKzSwd0Mu1shRgqL7xwWD/80c78ad02cdc722d2035cbe4395fb5f8/Premium_03_HBOFamily.png?fm=webp&q=80" group-title="Premium" , HBO FAMILY HD
-http://181.13.173.86:8000/play/a06r/index.m3u8
+http://181.209.114.13:8000/play/a06r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6jfONrEkrlw7SiKxsIsZr1/dea17656d92bae154876d07dc1391863/Premium_09_HBOExtreme.png?fm=webp&q=80" group-title="Premium" , HBO Xtreme
 http://181.13.173.86:8000/play/a02b/index.m3u8
@@ -273,19 +273,19 @@ http://181.176.153.106:8090/play/a0qc/index.m3u8
 http://181.13.173.86:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ZzSgskyQeKxH1jVARP4Be/f5e9c9bd641b4b6b524a2677e0f60842/universal-premiere.png?fm=webp&q=80" group-title="Premium" , Universal Premiere
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/1661
+http://190.60.40.37:8001/play/a097
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="Premium" , Universal Cinema
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/1662
+http://190.60.40.37:8001/play/a0ao
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3E162p4ysAkaik0txYYN0k/66dc9be0cc3d18c163e5d9f1f8b97b78/universal-comedy.png?fm=webp&q=80" group-title="Premium" , Universal Comedy
-http://45.170.225.212:48001/play/a038/index.m3u
+http://190.60.40.37:8001/play/a09b
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3gBoVelP3w7EOJ9cF2AFxL/b7a0f9e1db82041c815a8754ed9abd05/universal-crime.png?fm=webp&q=80" group-title="Premium" , Universal Crime
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/1663
+http://190.60.40.37:8001/play/a09a
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/26kcx0bBMEXfcFCR7gea7t/1c1b48583ea217a1a21020d12a8e0d3a/universal-reality.png?fm=webp&q=80" group-title="Premium" , Universal Reality
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/1664
+http://190.60.40.37:8001/play/a099
 
 
 
