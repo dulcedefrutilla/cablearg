@@ -23,7 +23,7 @@ https://g3.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-2000
 http://181.209.95.29:8000/play/a0a9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7v21fUf1ohsZC8dAioaBTU/1aff791f15e4d84c246e644c06494899/13_canal-13.png?fm=webp&q=80" group-title="Nacionales" , El Trece
-https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
+https://dsr.ride.com.ar/tvmia/bn02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/P9DSwbBtpDc64qzkkvaVy/1f341a80ea6da24308d5fe5dd3f610a0/14_canal-todo-noticias.png?fm=webp&q=80" group-title="Nacionales" , Todo Noticias
 http://181.13.173.86:8000/play/a0ap/index.m3u8
